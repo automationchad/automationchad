@@ -1,16 +1,13 @@
-## Hi there 👋
+## William Marzella 👋
 
-<!--
-**automationchad/automationchad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mechanical/hardware engineer who writes software. I focus on:
 
-Here are some ideas to get you started:
+- Graphics programming for particle simulations
+- Physics and game engines
+- Drone and terrain simulations
+- Testing autonomous systems in simulated environments
+- 3D design for defense applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build visual tools to help understand complex systems. When I don't understand something, I code it to learn it.
+
+Current interest: Field manufacturing for drones/robots, especially rapid parts replacement.
