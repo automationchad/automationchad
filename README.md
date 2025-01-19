@@ -2,12 +2,12 @@
 
 I'm a mechanical/hardware engineer who writes software. I focus on:
 
-- Graphics programming for particle simulations
-- Physics and game engines
-- Drone and terrain simulations
-- Testing autonomous systems in simulated environments
-- 3D design for defense applications
+- Core mesh data structures and computational geometry
+- Engineering visualization and technical rendering
+- Geometric constraint solving and CAD foundations
+- Field analysis and mechanical simulation
+- Fast tools for structural validation and field manufacturing
 
-I build visual tools to help understand complex systems. When I don't understand something, I code it to learn it.
+I build minimal, focused libraries to understand fundamental concepts. When I don't understand something, I code it to learn it.
 
 Current interest: Field manufacturing for drones/robots, especially rapid parts replacement.
